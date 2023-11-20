@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "66jVEA6RTPFxIHR40ELNU5aIqeKW7PEZGfmL8WXD5QY=",
+  "Source": "MHS.Subscribers.VendorA",
+  "BasePath": "_content/MHS.Subscribers.VendorA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

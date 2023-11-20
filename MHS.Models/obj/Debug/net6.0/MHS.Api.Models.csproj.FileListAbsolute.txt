@@ -1,0 +1,11 @@
+C:\Users\alden\source\repos\MHS\MHS.Models\bin\Debug\net6.0\MHS.Api.Models.deps.json
+C:\Users\alden\source\repos\MHS\MHS.Models\bin\Debug\net6.0\MHS.Api.Models.dll
+C:\Users\alden\source\repos\MHS\MHS.Models\bin\Debug\net6.0\MHS.Api.Models.pdb
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\MHS.Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\MHS.Api.Models.AssemblyInfoInputs.cache
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\MHS.Api.Models.AssemblyInfo.cs
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\MHS.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\MHS.Api.Models.dll
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\refint\MHS.Api.Models.dll
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\MHS.Api.Models.pdb
+C:\Users\alden\source\repos\MHS\MHS.Models\obj\Debug\net6.0\ref\MHS.Api.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\alden\source\repos\MHS\MHS.Data\bin\Debug\net6.0\MHS.Data.deps.json
+C:\Users\alden\source\repos\MHS\MHS.Data\bin\Debug\net6.0\MHS.Data.dll
+C:\Users\alden\source\repos\MHS\MHS.Data\bin\Debug\net6.0\MHS.Data.pdb
+C:\Users\alden\source\repos\MHS\MHS.Data\bin\Debug\net6.0\MHS.Api.Models.dll
+C:\Users\alden\source\repos\MHS\MHS.Data\bin\Debug\net6.0\MHS.Api.Models.pdb
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.csproj.AssemblyReference.cache
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.AssemblyInfoInputs.cache
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.AssemblyInfo.cs
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.csproj.CoreCompileInputs.cache
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.csproj.CopyComplete
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.dll
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\refint\MHS.Data.dll
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\MHS.Data.pdb
+C:\Users\alden\source\repos\MHS\MHS.Data\obj\Debug\net6.0\ref\MHS.Data.dll
